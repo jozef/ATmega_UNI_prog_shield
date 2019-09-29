@@ -1,0 +1,25 @@
+NAME
+
+    ATmega UNI Programming Shield - works with Arduino ISP from examples
+
+DESCRIPTION
+
+    Small shield connecting SPI lines and with RGB led on D7,8,9 pins. In
+    addition jumper on the left of ICSP has to be set to e~10→RST so that
+    D10 from programming board is connected to reset of programmed
+    microcontroller.
+
+SEE ALSO
+
+    https://github.com/jozef/ATmega_UNI,
+    https://github.com/jozef/ATmega_UNI_prog_shield,
+    https://blog.kutej.net/09/ATmega-UNI-prog-shield
+
+LICENSE
+
+    This is free software & hardware, licensed under the MIT License.
+
+AUTHOR
+
+        Jozef Kutej
+
