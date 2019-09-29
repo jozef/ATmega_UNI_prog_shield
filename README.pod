@@ -1,3 +1,5 @@
+=encoding utf8
+
 =head1 NAME
 
 ATmega UNI Programming Shield - works with Arduino ISP from examples
